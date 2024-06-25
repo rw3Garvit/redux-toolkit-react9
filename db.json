@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "garvit@gmail.com",
+      "password": 123
+    },
+    {
+      "id": 2,
+      "email": "user@gmail.com",
+      "password": 123
+    },
+    {
+      "id": "f453",
+      "email": "sdfsdfsd",
+      "password": "sdfsdf"
+    },
+    {
+      "id": "7523",
+      "email": "asdasd",
+      "password": "asdasd"
+    },
+    {
+      "id": "d671",
+      "email": "asdasd",
+      "password": "asdasd"
+    },
+    {
+      "id": "9cb4",
+      "email": "asdasd",
+      "password": "asdasd"
+    },
+    {
+      "id": "26c5",
+      "email": "asdasd",
+      "password": "asdasd"
+    }
+  ]
+}
